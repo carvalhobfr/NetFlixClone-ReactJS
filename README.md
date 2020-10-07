@@ -1,7 +1,6 @@
 # React Clone - ReactJS
 
-
-data from https://api.themoviedb.org/3
+demo: https://netflix-clonereactjs.netlify.app/
 
 ## Get your API_KEY and config in Tmdb API_KEY
 
