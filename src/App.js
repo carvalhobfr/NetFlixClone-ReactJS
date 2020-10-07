@@ -6,6 +6,7 @@ import FeaturedMovie from './components/FeaturedMovie';
 import Header from './components/Header';
 
 export default () => {
+  require('dotenv').config()
 
   const [movieList, setMovieList] = useState([]);
   const [featuredData, setFeaturedData] = useState(null);
