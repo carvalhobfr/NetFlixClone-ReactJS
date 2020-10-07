@@ -1,6 +1,6 @@
 # React Clone - ReactJS
 
-demo: https://netflix-clonereactjs.netlify.app/
+demo: https://reactnetflixclone.herokuapp.com/
 
 ## Get your API_KEY and config in Tmdb API_KEY
 
